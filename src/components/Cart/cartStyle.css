@@ -1,0 +1,18 @@
+.cart{
+  width: 90%;
+  margin-top: 2rem;
+  margin-left: 4rem;
+}
+
+.itemsCard{
+  display: block;
+}
+
+.cardBody{
+  margin: 1rem;
+}
+
+.form{
+  margin: 4rem;
+  width: 40%;
+}

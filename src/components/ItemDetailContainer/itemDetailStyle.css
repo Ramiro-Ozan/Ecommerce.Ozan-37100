@@ -1,0 +1,28 @@
+.box{
+  text-align: center;
+  margin-top: 3rem;
+  margin-left: 10rem;
+  margin-right: 10rem;
+}
+
+.imgDetail{
+  text-align: center;
+  width: 20%;
+}
+
+.information{
+  display: flex;
+}
+
+.containers{
+  position: static;
+  top: 50%;
+  width: 33%;
+}
+
+.texts{
+  position: relative;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}

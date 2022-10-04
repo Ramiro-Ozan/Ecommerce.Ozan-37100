@@ -1,0 +1,17 @@
+.majorLink{
+  text-decoration: none;
+  color: white;
+  font-size: x-large;
+  padding-right: 40px;
+}
+
+.link{
+  text-decoration: none;
+  color: white;
+  font-size: large;
+}
+
+.cartNumber{
+  font-weight: bold;
+  font-size: larger;
+}
