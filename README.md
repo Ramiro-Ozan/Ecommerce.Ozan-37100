@@ -2,8 +2,6 @@
 
 The instalation and execution of the web is simple. First of all, after cloning the respository, it must be positioned over the created directory, for that we need to execute the following command:
 
-#### cd .\ecommerce-npx\
-
 and asuming we already got Node.js en our terminal, we must install the dependecies of the proyect:
 
 #### npm i
